@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/crear_y_aplicar_diapositivas_maestras.md" %}

@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/aadir_grficos_hojas_de_clculo_diagramas_y_otros_objetos.md" %}
